@@ -1,0 +1,2 @@
+# GHSortedEventManager
+利用NSConditionLock实现多个异步任务按预先设定的顺序执行
